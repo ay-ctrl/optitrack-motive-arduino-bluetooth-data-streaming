@@ -1,2 +1,10 @@
-# optitrack-motive-arduino-bluetooth-data-streaming
-This project was developed during my internship. It serves as a manual for streaming data from an OptiTrack motion capture system to an Arduino, and then wirelessly transmitting that data to a second Arduino using Bluetooth modules.
+## Credits and License
+
+This project builds upon code from the following open-source repository:
+
+[Original Repository by username](https://github.com/username/original-repo)
+
+Original code is licensed under the [MIT License](./LICENSE).  
+I have modified and extended the functionality to support data streaming from OptiTrack to Arduino with Bluetooth communication.
+
+See the LICENSE file for details.
